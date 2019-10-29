@@ -87,5 +87,44 @@ aglutynacja::aglutynacja::<b>aglutynacja</b>, aglutino.
 agonja::agonja::<b>agonja</b>, agonio.
 agrafka::agrafka::<b>agrafka</b>, agrafo.
 agrarny::agrarny::<b>agrarny</b>, agrara.
+agrarjusz::agrarjusz::<b>agrarjusz</b>, agrarulo.
+agrest::agrest::<b>agrest</b>, groso.
+agronom::agronom::<b>agronom</b>, agronomiisto.
+agronomiczny::agronomiczny::<b>agronomiczny</b>, agronomia.
+agronomja::agronomja::<b>agronomja</b>, agronomio.
+ah::ah::<b>ah</b>, ho, ah!
+aha::aha::<b>aha</b>, jen!
+ajent::ajent::<b>ajent</b> = <link headword="agient">agient</link>.
+ajer::ajer::<b>ajer</b>, kalamo <i>(bot.)</i>.
+akacja::akacja::<b>akacja</b>, akacio.
+akacjowy::akacjowy::<b>akacjowy</b>, akacia.
+akademicki:::akademicki::<b>akademicki</b>, akademia.
+akademik::akademik::<b>akademik</b>, akademiano <i>(członek akademji)</i>; studento <i>(student)</i>.
+akademja::akademja::<b>akademja</b>, akademio.
+akant::akant::<b>akant</b>, akanto.
+akcent::akcent::<b>akcent</b>, akcento <i>(nacisk)</i>; elparolado <i>(wymowa)</i>.
+akcentowac::akcentować::<b>akcentować</b>, akcenti.
+akceptacja::akceptacja::<b>akceptacja</b>, akcepto.
+akceptowac::akceptować::<b>akceptować</b>, akcepti.
+akcesorja::akcesorja::<b>akcesorja</b>, akcesoraĵoj.
+akcja::akcja::<b>akacja</b>, akcio <i>(a. handlowa)</i>, agado <i>(działanie)</i>.
+akcjonarjusz::akcjonariusz::<b>akcjonariusz</b>, akciulo.
+akcyjny::akcyjny::<b>akcyjny</b>, akcia.
+akcyza::akcyza::<b>akcyza</b>, akcizo.
+aklamacja::aklamacja::<b>aklamacja</b>, aklamo.
+aklimatyzowac::aklimatyzować::<b>aklimatyzować</b>, aklimatizi.
+akomodowac::akomodować::<b>akomodować</b>, akomodi.
+akompanjament::akompanjament::<b>akompanjament</b>, akompano.
+akompanjator::akompanjator::<b>akompanjator</b>, akompananto.
+akompanjowac::akompanjować::<b>akompanjować</b>, akompani.
+akord::akord::<b>akord</b>, akordo.
+akr::akr::<b>akr</b>, akro.
+akredytowac::akredytować::<b>akredytować</b>, akrediti.
+akrobata::akrobata::<b>akrobata</b>, akrobato.
+aksamit::aksamit::<b>aksamit</b>, veluro.
+aksamitka::aksamitka::<b>aksamitka</b>, velurrubando.
+aksamitny::aksamitny::<b>aksamitny</b>, velura.
+akselbant::akselbant::<b>akselbant</b>, epoleto.
+aksjomat::aksjomat::<b>aksjomat</b>, aksiomo.
 #END
 ŝ Ŝ Ĵ ĵ Ĝ ĝ ü
