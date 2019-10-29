@@ -1,0 +1,91 @@
+a::a::<b>a</b>, kaj <i>(i)</i>; sed <i>(ale)</i>; ha!
+abazur::abażur::<b>abażur</b>, abaĵuro, lampoŝirmilo, lumŝirmilo.
+abdykacja::abdykacja::<b>abdykacja</b>, abdiko, eksiĝo.
+abdykowac::abdykować::<b>abdykować</b>, abdiki, eksiĝi.
+abecadlo::abecadło::<b>abecadło</b>, alfabeto.
+aberacja::aberacja::<b>aberacja</b>, aberacio.
+abiturjent::abiturjent::<b>abiturjent</b>, abituriento.
+abnegacja::abnegacja::<b>abnegacja</b>, abnegacio.
+abnegat::abnegat::<b>abnegat</b>, abnegaciulo.
+abominacja::abominacja::<b>abominacja</b>, abomeno.
+abonament::abonament::<b>abonament</b>, abono, abonpago.
+abonent::abonent::<b>abonent</b>, abonanto.
+abonowac::abonować::<b>abonować</b>, aboni.
+absces::absces::<b>absces</b>, absceso.
+absolucja::absolucja::<b>absolucja</b>, absolvo.
+absolutnosc::absolutność::<b>absolutność</b>, absoluteco.
+absolutny::absolutny::<b>absolutny</b>, absoluta.
+absolutyzm::absolutyzm::<b>absolutyzm</b>, absolutismo.
+absorbowac::absorbować::<b>absorbować</b>, absorbi.
+abstrakcja::abstrakcja::<b>abstrakcja</b>, abstraktaĵo.
+abstrakcyjnosc::abstrakcyjność::<b>abstrakcyjność</b>, abstrakteco.
+abstrakt::abstrakt::<b>abstrakt</b>, abstrakto.
+abstynencja::abstynencja::<b>abstynencja</b>, abstinenco.
+absynt::absynt::<b>absynt</b>, absinto.
+aby::aby::<b>aby</b>, ke, por ke <i>(z trybem rozkaz.)</i>; por <i>(z trybem bezokol.)</i>.
+acan::acan::<b>acan</b>, vi, sinjoro, via moŝto.
+ach::ach::<b>ach</b>, ah, ho! ho ve! <i>(biada)</i>.
+achromatyczny::achromatyczny::<b>achromatyczny</b>, akromata.
+acz, aczkolwiek::acz::<b>acz, aczkolwiek</b>, kvankam.
+adamaszek::adamaszek::<b>adamaszek</b>, damasko.
+adamaszkowy::adamaszkowy::<b>adamaszkowy</b>, damaska.
+adept::adept::<b>adept</b>, adepto.
+adieu::adieu::<b>adieu</b>, adiaü!
+adjunkt::adjunkt::<b>adjunkt</b>, adjunkto.
+adjutancki::adjutancki::<b>adjuntancki</b>, adjutanta.
+adjutant::adjutant::<b>adjutant</b>, adjutanto.
+administracja::administracja::<b>administracja</b>, administracio, administrado.
+administracyjny::administracyjny::<b>administracyjny</b>, administracja, administra.
+administrator::administrator::<b>administrator</b>, administranto.
+administrowa::administrować::<b>administrować</b>, administri.
+admiracja::admiracja::<b>admiracja</b>, admiro.
+admiralicja::admiralicja::<b>admiralicja</b>, admiralitato.
+admiralski::admiralski::<b>admiralski</b>, admirala.
+admiralstwo::admiralstwo::<b>admiralstwo</b>, admiraleco <i>(godność)</i>; admiralaj geedzoj <i>(małżonkowie)</i>.
+admiral::admirał::<b>admirał</b>, admiralo.
+admiralowa::admirałowa::<b>admirałowa</b>, admiraledzino.
+admirowac::admirować::<b>admirować</b>, admiri.
+admonicja::admonicja::<b>admonicja</b>, admono.
+adnotacja::adnotacja::<b>adnotacja</b>, notaĵo <i>(notatka)</i>; rimarko <i>(uwaga)</i>.
+adonis::adonis::<b>adonis</b>, adoniso.
+adopcja::adopcja::<b>adopcja</b>, adopto.
+adopcyjny::adopcyjny::<b>adopcyjny</b>, adopta.
+adoptowac::adoptować::<b>adoptować</b>, adopti.
+adoracja::adoracja::<b>adoracja</b>, adoro.
+adorator::adorator::<b>adorator</b>, adoranto.
+adorowac::adorować::<b>adorować</b>, adori.
+adres::adres::<b>adres</b>, adreso.
+adresowac::adresować::<b>adresować</b>, adresi.
+adresowy::adresowy::<b>adresowy</b>, adresa.
+adwent::adwent::<b>adwent</b>, advento.
+adwentowy::adwentowy::<b>adwentowy</b>, adventa.
+adwokacki::adwokacki::<b>adwokacki</b>, advokato.
+adwokat::adwokat::<b>adwokat</b>, advokato.
+adwokatowa::adwokatowa::<b>adwokatowa</b>, advokatedzino.
+adwokatura::adwokatura::<b>adwokatura</b>, advokateco; advokataro.
+aerolit::aerolit::<b>aerolit</b>, aerolito.
+aeronauta::aeronauta::<b>aeronauta</b>, aeronaüto, aerveturanto.
+aerostat::aerostat::<b>aerostat</b>, aerostato.
+afekt::afekt::<b>afekt</b>, afekcio; inklino <i>(skłoność)</i>; amo <i>(miłość)</i>.
+afektacja::afektacja::<b>afektacja</b>, afektato.
+afektowac::afektować::<b>afektować</b>, afekti.
+aferzysta::aferzysta::<b>aferzysta</b>, aferisto, spekulaciisto <i>(spekulant)</i>.
+afisz::afisz::<b>afisz</b>, afiŝo.
+afiszowac::afiszować::<b>afiszować</b>, afiŝi.
+aforyzm::aforyzm::<b>aforyzm</b>, aforismo.
+afront::afront::<b>afront</b>, ofendo.
+Afryka::Afryka::<b>Afryka</b>, Afriko.
+afrykanin::afrykanin::<b>afrykanin</b>, afrikano.
+afrykanski::afrykański::<b>afrykański</b>, afrika.
+agat::agat::<b>agat</b>, agato.
+agiencja::agiencja::<b>agiencja</b>, agentejo.
+agient::agient::<b>agient</b>, agento.
+agitacja::agitacja::<b>agitacja</b>, agitado.
+agitator::agitator::<b>agitator</b>, agitanto.
+agitowac::agitować::<b>agitować</b>, agiti.
+aglutynacja::aglutynacja::<b>aglutynacja</b>, aglutino.
+agonja::agonja::<b>agonja</b>, agonio.
+agrafka::agrafka::<b>agrafka</b>, agrafo.
+agrarny::agrarny::<b>agrarny</b>, agrara.
+#END
+ŝ Ŝ Ĵ ĵ Ĝ ĝ ü
