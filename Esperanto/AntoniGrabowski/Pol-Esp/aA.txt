@@ -26,7 +26,7 @@ aby::aby::<b>aby</b>, ke, por ke <i>(z trybem rozkaz.)</i>; por <i>(z trybem bez
 acan::acan::<b>acan</b>, vi, sinjoro, via moŝto.
 ach::ach::<b>ach</b>, ah, ho! ho ve! <i>(biada)</i>.
 achromatyczny::achromatyczny::<b>achromatyczny</b>, akromata.
-acz, aczkolwiek::acz::<b>acz, aczkolwiek</b>, kvankam.
+acz::acz, aczkolwiek::<b>acz, aczkolwiek</b>, kvankam.
 adamaszek::adamaszek::<b>adamaszek</b>, damasko.
 adamaszkowy::adamaszkowy::<b>adamaszkowy</b>, damaska.
 adept::adept::<b>adept</b>, adepto.
@@ -126,5 +126,45 @@ aksamitka::aksamitka::<b>aksamitka</b>, velurrubando.
 aksamitny::aksamitny::<b>aksamitny</b>, velura.
 akselbant::akselbant::<b>akselbant</b>, epoleto.
 aksjomat::aksjomat::<b>aksjomat</b>, aksiomo.
+akt::akt::<b>akt</b>, akto, <i>(akt, odsłona)</i>; ago <i>(działanie)</i>; faro <i>(czyn)</i>.
+akta::akta::<b>akta</b>, aktoj.
+aktor::aktor::<b>aktor</b>, aktoro.
+aktorka::aktorka::<b>aktorka</b>, aktorino.
+aktorski::aktorski::<b>aktorski</b>, aktora.
+aktowy::aktowy::<b>aktowy</b>, akta.
+aktualny::aktualny::<b>aktualny</b>, aktuala, nuntempa.
+aktuarjusz::aktuarjusz::<b>aktuarjusz</b>, aktisto.
+akumulator::akumulator::<b>akumulator</b>, akumulatoro.
+akuratnosc::akuratność::<b>akuratność</b>, akurateco.
+akuratny::akuratny::<b>akuratny</b>, akurata.
+akustyczny::akustyczny::<b>akustyczny</b>, akustika.
+akustyka::akustyka::<b>akustyka</b>, akustiko.
+akuszer::akuszer::<b>akuszer</b>, akuŝistio.
+akuszerka::akuszerka::<b>akuszerka</b>, akuŝistino.
+akuszerski::akuszerski::<b>akuszerski</b>, akuŝista.
+akuszerstwo::akuszerstwo::<b>akuszerstwo</b>, akuŝistado.
+akwarela::akwarela::<b>akwarela</b>, akvarelo.
+akwarjum::akwarjum::<b>akwarjum</b>, akvario.
+alabaster::alabaster::<b>alabaster</b>, alabastro.
+alabastrowy::alabastrowy::<b>alabastrowy</b>, alabastra.
+alarm::alarm::<b>alarm</b>, alarmo.
+alarmowac::alarmować::<b>alarmować</b>, alarmi.
+albatros::albatros::<b>albatros</b>, albatroso.
+albinos::albinos::<b>albinos</b>, albinoso.
+albo::albo::<b>albo</b>, aü <i>(lub)</i>; ĉu <i>(czy)</i>.
+albowiem::albowiem::<b>albowiem</b>, ĉar, pro tio ke.
+album::album::<b>album</b>, albumo.
+albumin::albumin::<b>albumin</b>, albumeno.
+alchemik::alchemik::<b>alchemik</b>, alĥemiisto.
+alchemja::alchemja::<b>alchemja</b>, alĥemio.
+alcista::alcista::<b>alcista</b>, aldisto.
+ale01::ale::<b>ale</b>, sed.
+ale02::ale, ale::<b>ale, ale</b>, sed jen! atendu <i>(poczekaj)</i>.
+alegorja::alegorja::<b>alegorja</b>, alegorio.
+alegoryczny::alegoryczny::<b>alegoryczny</b>, alegoria.
+aleja::aleja::<b>aleja</b>, aleo.
+alembik::alembik::<b>alembik</b>, distililo.
+alembikowka::alembikówka::<b>alembikówka</b>, brando distilita.
+aleopatja::aleopatja::<b>aleopatja</b>, aleopatio.
 #END
-ŝ Ŝ Ĵ ĵ Ĝ ĝ ü
+ŝ Ŝ Ĵ ĵ Ĝ ĝ ü ĉ Ĉ Ĥ ĥ
