@@ -166,5 +166,45 @@ aleja::aleja::<b>aleja</b>, aleo.
 alembik::alembik::<b>alembik</b>, distililo.
 alembikowka::alembikówka::<b>alembikówka</b>, brando distilita.
 aleopatja::aleopatja::<b>aleopatja</b>, aleopatio.
+alez::ależ::<b>ależ</b>, sed <i>(ale)</i>; tamen <i>(jednak)</i>; ja <i>(przecie)</i>.
+alfabet::alfabet::<b>alfabet</b>, alfabeto.
+alfabetyczny::alfabetyczny::<b>alfabetyczny</b>, alfabeta.
+algiebra::algiebra::<b>algiebra</b>, algebro.
+algiebraiczny::algiebraiczny::<b>algiebraiczny</b>, algebra.
+alic::alić, aliści::<b>alić, aliści</b>, jen <i>(oto)</i>; rigardu <i>(patrz)</i>.
+aligator::aligator::<b>aligaror</b>, aligatoro.
+alimenta::alimenta::<b>alimenta</b>, alimentoj.
+alkali::alkali::<b>alkali</b>, alkalio.
+alkaliczny::alkaliczny::<b>alkaliczny</b>, alkalia.
+alkierz::alkierz::<b>alkierz</b>, alkovo.
+alkohol::alkohol::<b>alkohol</b>, alkoholo.
+alkoholiczny::alkoholiczny::<b>alkoholiczny</b>, alkohola.
+alkoholik::alkoholik::<b>alkoholik</b>, alkoholulo.
+alkowa::alkowa::<b>alkowa</b> = <link headword="alkierz">alkierz</link>.
+almanach::almanach::<b>almanach</b>, almanako.
+aloes::aloes::<b>aloes</b>, aloo.
+alpejczyk::alpejczyk::<b>alpejczyk</b>, alpano.
+alpejski::alpejski::<b>alpejski</b>, alpa.
+alpy::Alpy::<b>Alpy</b>, Alpoj.
+alt::alt::<b>alt</b>, aldo.
+altana::altana::<b>altana</b>, laübo.
+alternatywa::alternatywa::<b>alternatywa</b>, alternativo.
+altowka::altówka::<b>altówka</b>, aldviolono.
+altowy::altowy::<b>altowy</b>, alda.
+alumn::alumn::<b>alumn</b>, seminariano.
+aluzja::aluzja::<b>aluzja</b>, aludo.
+alun::ałun::<b>ałun</b>, aluno.
+alunisty::ałunisty::<b>ałunisty</b>, aluneca, alunhava.
+alunowy::ałunowy::<b>ałunowy</b>, aluna.
+amalgamat::amalgamat::<b>amalgamat</b>, amalgaamo.
+amalgamowac::amalgamować::<b>amalgamować</b>, amalgami.
+amant::amant::<b>amant</b>, amanto.
+amarant::amarant::<b>amarant</b>, amaranto.
+amarantowy::amarantowy::<b>amarantowy</b>, amaranta.
+amator::amator::<b>amator</b>, amatoro.
+amatorka::amatorka::<b>amatorka</b>, amatorino.
+amatorski::amatorski::<b>amatorski</b>, amatora, diletanta.
+amatorstwo::amatorstwo::<b>amatorstwo</b>, diletantismo.
+ambaras::ambaras::<b>ambaras</b>, embaraso.
 #END
 ŝ Ŝ Ĵ ĵ Ĝ ĝ ü ĉ Ĉ Ĥ ĥ
