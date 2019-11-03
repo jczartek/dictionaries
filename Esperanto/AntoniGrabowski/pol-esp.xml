@@ -1,0 +1,837 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dictionary type="polish-esperanto">
+  <headwords>
+    <headword id="a">
+      <definition>a</definition>
+      <meaning><b>a</b>, kaj <i>(i)</i>; sed <i>(ale)</i>; ha!</meaning>
+    </headword>
+    <headword id="abazur">
+      <definition>abażur</definition>
+      <meaning><b>abażur</b>, abaĵuro, lampoŝirmilo, lumŝirmilo.</meaning>
+    </headword>
+    <headword id="abdykacja">
+      <definition>abdykacja</definition>
+      <meaning><b>abdykacja</b>, abdiko, eksiĝo.</meaning>
+    </headword>
+    <headword id="abdykowac">
+      <definition>abdykować</definition>
+      <meaning><b>abdykować</b>, abdiki, eksiĝi.</meaning>
+    </headword>
+    <headword id="abecadlo">
+      <definition>abecadło</definition>
+      <meaning><b>abecadło</b>, alfabeto.</meaning>
+    </headword>
+    <headword id="aberacja">
+      <definition>aberacja</definition>
+      <meaning><b>aberacja</b>, aberacio.</meaning>
+    </headword>
+    <headword id="abiturjent">
+      <definition>abiturjent</definition>
+      <meaning><b>abiturjent</b>, abituriento.</meaning>
+    </headword>
+    <headword id="abnegacja">
+      <definition>abnegacja</definition>
+      <meaning><b>abnegacja</b>, abnegacio.</meaning>
+    </headword>
+    <headword id="abnegat">
+      <definition>abnegat</definition>
+      <meaning><b>abnegat</b>, abnegaciulo.</meaning>
+    </headword>
+    <headword id="abominacja">
+      <definition>abominacja</definition>
+      <meaning><b>abominacja</b>, abomeno.</meaning>
+    </headword>
+    <headword id="abonament">
+      <definition>abonament</definition>
+      <meaning><b>abonament</b>, abono, abonpago.</meaning>
+    </headword>
+    <headword id="abonent">
+      <definition>abonent</definition>
+      <meaning><b>abonent</b>, abonanto.</meaning>
+    </headword>
+    <headword id="abonowac">
+      <definition>abonować</definition>
+      <meaning><b>abonować</b>, aboni.</meaning>
+    </headword>
+    <headword id="absces">
+      <definition>absces</definition>
+      <meaning><b>absces</b>, absceso.</meaning>
+    </headword>
+    <headword id="absolucja">
+      <definition>absolucja</definition>
+      <meaning><b>absolucja</b>, absolvo.</meaning>
+    </headword>
+    <headword id="absolutnosc">
+      <definition>absolutność</definition>
+      <meaning><b>absolutność</b>, absoluteco.</meaning>
+    </headword>
+    <headword id="absolutny">
+      <definition>absolutny</definition>
+      <meaning><b>absolutny</b>, absoluta.</meaning>
+    </headword>
+    <headword id="absolutyzm">
+      <definition>absolutyzm</definition>
+      <meaning><b>absolutyzm</b>, absolutismo.</meaning>
+    </headword>
+    <headword id="absorbowac">
+      <definition>absorbować</definition>
+      <meaning><b>absorbować</b>, absorbi.</meaning>
+    </headword>
+    <headword id="abstrakcja">
+      <definition>abstrakcja</definition>
+      <meaning><b>abstrakcja</b>, abstraktaĵo.</meaning>
+    </headword>
+    <headword id="abstrakcyjnosc">
+      <definition>abstrakcyjność</definition>
+      <meaning><b>abstrakcyjność</b>, abstrakteco.</meaning>
+    </headword>
+    <headword id="abstrakt">
+      <definition>abstrakt</definition>
+      <meaning><b>abstrakt</b>, abstrakto.</meaning>
+    </headword>
+    <headword id="abstynencja">
+      <definition>abstynencja</definition>
+      <meaning><b>abstynencja</b>, abstinenco.</meaning>
+    </headword>
+    <headword id="absynt">
+      <definition>absynt</definition>
+      <meaning><b>absynt</b>, absinto.</meaning>
+    </headword>
+    <headword id="aby">
+      <definition>aby</definition>
+      <meaning><b>aby</b>, ke, por ke <i>(z trybem rozkaz.)</i>; por <i>(z trybem bezokol.)</i>.</meaning>
+    </headword>
+    <headword id="acan">
+      <definition>acan</definition>
+      <meaning><b>acan</b>, vi, sinjoro, via moŝto.</meaning>
+    </headword>
+    <headword id="ach">
+      <definition>ach</definition>
+      <meaning><b>ach</b>, ah, ho! ho ve! <i>(biada)</i>.</meaning>
+    </headword>
+    <headword id="achromatyczny">
+      <definition>achromatyczny</definition>
+      <meaning><b>achromatyczny</b>, akromata.</meaning>
+    </headword>
+    <headword id="acz">
+      <definition>acz, aczkolwiek</definition>
+      <meaning><b>acz, aczkolwiek</b>, kvankam.</meaning>
+    </headword>
+    <headword id="adamaszek">
+      <definition>adamaszek</definition>
+      <meaning><b>adamaszek</b>, damasko.</meaning>
+    </headword>
+    <headword id="adamaszkowy">
+      <definition>adamaszkowy</definition>
+      <meaning><b>adamaszkowy</b>, damaska.</meaning>
+    </headword>
+    <headword id="adept">
+      <definition>adept</definition>
+      <meaning><b>adept</b>, adepto.</meaning>
+    </headword>
+    <headword id="adieu">
+      <definition>adieu</definition>
+      <meaning><b>adieu</b>, adiaü!</meaning>
+    </headword>
+    <headword id="adjunkt">
+      <definition>adjunkt</definition>
+      <meaning><b>adjunkt</b>, adjunkto.</meaning>
+    </headword>
+    <headword id="adjutancki">
+      <definition>adjutancki</definition>
+      <meaning><b>adjuntancki</b>, adjutanta.</meaning>
+    </headword>
+    <headword id="adjutant">
+      <definition>adjutant</definition>
+      <meaning><b>adjutant</b>, adjutanto.</meaning>
+    </headword>
+    <headword id="administracja">
+      <definition>administracja</definition>
+      <meaning><b>administracja</b>, administracio, administrado.</meaning>
+    </headword>
+    <headword id="administracyjny">
+      <definition>administracyjny</definition>
+      <meaning><b>administracyjny</b>, administracja, administra.</meaning>
+    </headword>
+    <headword id="administrator">
+      <definition>administrator</definition>
+      <meaning><b>administrator</b>, administranto.</meaning>
+    </headword>
+    <headword id="administrowa">
+      <definition>administrować</definition>
+      <meaning><b>administrować</b>, administri.</meaning>
+    </headword>
+    <headword id="admiracja">
+      <definition>admiracja</definition>
+      <meaning><b>admiracja</b>, admiro.</meaning>
+    </headword>
+    <headword id="admiralicja">
+      <definition>admiralicja</definition>
+      <meaning><b>admiralicja</b>, admiralitato.</meaning>
+    </headword>
+    <headword id="admiralski">
+      <definition>admiralski</definition>
+      <meaning><b>admiralski</b>, admirala.</meaning>
+    </headword>
+    <headword id="admiralstwo">
+      <definition>admiralstwo</definition>
+      <meaning><b>admiralstwo</b>, admiraleco <i>(godność)</i>; admiralaj geedzoj <i>(małżonkowie)</i>.</meaning>
+    </headword>
+    <headword id="admiral">
+      <definition>admirał</definition>
+      <meaning><b>admirał</b>, admiralo.</meaning>
+    </headword>
+    <headword id="admiralowa">
+      <definition>admirałowa</definition>
+      <meaning><b>admirałowa</b>, admiraledzino.</meaning>
+    </headword>
+    <headword id="admirowac">
+      <definition>admirować</definition>
+      <meaning><b>admirować</b>, admiri.</meaning>
+    </headword>
+    <headword id="admonicja">
+      <definition>admonicja</definition>
+      <meaning><b>admonicja</b>, admono.</meaning>
+    </headword>
+    <headword id="adnotacja">
+      <definition>adnotacja</definition>
+      <meaning><b>adnotacja</b>, notaĵo <i>(notatka)</i>; rimarko <i>(uwaga)</i>.</meaning>
+    </headword>
+    <headword id="adonis">
+      <definition>adonis</definition>
+      <meaning><b>adonis</b>, adoniso.</meaning>
+    </headword>
+    <headword id="adopcja">
+      <definition>adopcja</definition>
+      <meaning><b>adopcja</b>, adopto.</meaning>
+    </headword>
+    <headword id="adopcyjny">
+      <definition>adopcyjny</definition>
+      <meaning><b>adopcyjny</b>, adopta.</meaning>
+    </headword>
+    <headword id="adoptowac">
+      <definition>adoptować</definition>
+      <meaning><b>adoptować</b>, adopti.</meaning>
+    </headword>
+    <headword id="adoracja">
+      <definition>adoracja</definition>
+      <meaning><b>adoracja</b>, adoro.</meaning>
+    </headword>
+    <headword id="adorator">
+      <definition>adorator</definition>
+      <meaning><b>adorator</b>, adoranto.</meaning>
+    </headword>
+    <headword id="adorowac">
+      <definition>adorować</definition>
+      <meaning><b>adorować</b>, adori.</meaning>
+    </headword>
+    <headword id="adres">
+      <definition>adres</definition>
+      <meaning><b>adres</b>, adreso.</meaning>
+    </headword>
+    <headword id="adresowac">
+      <definition>adresować</definition>
+      <meaning><b>adresować</b>, adresi.</meaning>
+    </headword>
+    <headword id="adresowy">
+      <definition>adresowy</definition>
+      <meaning><b>adresowy</b>, adresa.</meaning>
+    </headword>
+    <headword id="adwent">
+      <definition>adwent</definition>
+      <meaning><b>adwent</b>, advento.</meaning>
+    </headword>
+    <headword id="adwentowy">
+      <definition>adwentowy</definition>
+      <meaning><b>adwentowy</b>, adventa.</meaning>
+    </headword>
+    <headword id="adwokacki">
+      <definition>adwokacki</definition>
+      <meaning><b>adwokacki</b>, advokato.</meaning>
+    </headword>
+    <headword id="adwokat">
+      <definition>adwokat</definition>
+      <meaning><b>adwokat</b>, advokato.</meaning>
+    </headword>
+    <headword id="adwokatowa">
+      <definition>adwokatowa</definition>
+      <meaning><b>adwokatowa</b>, advokatedzino.</meaning>
+    </headword>
+    <headword id="adwokatura">
+      <definition>adwokatura</definition>
+      <meaning><b>adwokatura</b>, advokateco; advokataro.</meaning>
+    </headword>
+    <headword id="aerolit">
+      <definition>aerolit</definition>
+      <meaning><b>aerolit</b>, aerolito.</meaning>
+    </headword>
+    <headword id="aeronauta">
+      <definition>aeronauta</definition>
+      <meaning><b>aeronauta</b>, aeronaüto, aerveturanto.</meaning>
+    </headword>
+    <headword id="aerostat">
+      <definition>aerostat</definition>
+      <meaning><b>aerostat</b>, aerostato.</meaning>
+    </headword>
+    <headword id="afekt">
+      <definition>afekt</definition>
+      <meaning><b>afekt</b>, afekcio; inklino <i>(skłoność)</i>; amo <i>(miłość)</i>.</meaning>
+    </headword>
+    <headword id="afektacja">
+      <definition>afektacja</definition>
+      <meaning><b>afektacja</b>, afektato.</meaning>
+    </headword>
+    <headword id="afektowac">
+      <definition>afektować</definition>
+      <meaning><b>afektować</b>, afekti.</meaning>
+    </headword>
+    <headword id="aferzysta">
+      <definition>aferzysta</definition>
+      <meaning><b>aferzysta</b>, aferisto, spekulaciisto <i>(spekulant)</i>.</meaning>
+    </headword>
+    <headword id="afisz">
+      <definition>afisz</definition>
+      <meaning><b>afisz</b>, afiŝo.</meaning>
+    </headword>
+    <headword id="afiszowac">
+      <definition>afiszować</definition>
+      <meaning><b>afiszować</b>, afiŝi.</meaning>
+    </headword>
+    <headword id="aforyzm">
+      <definition>aforyzm</definition>
+      <meaning><b>aforyzm</b>, aforismo.</meaning>
+    </headword>
+    <headword id="afront">
+      <definition>afront</definition>
+      <meaning><b>afront</b>, ofendo.</meaning>
+    </headword>
+    <headword id="Afryka">
+      <definition>Afryka</definition>
+      <meaning><b>Afryka</b>, Afriko.</meaning>
+    </headword>
+    <headword id="afrykanin">
+      <definition>afrykanin</definition>
+      <meaning><b>afrykanin</b>, afrikano.</meaning>
+    </headword>
+    <headword id="afrykanski">
+      <definition>afrykański</definition>
+      <meaning><b>afrykański</b>, afrika.</meaning>
+    </headword>
+    <headword id="agat">
+      <definition>agat</definition>
+      <meaning><b>agat</b>, agato.</meaning>
+    </headword>
+    <headword id="agiencja">
+      <definition>agiencja</definition>
+      <meaning><b>agiencja</b>, agentejo.</meaning>
+    </headword>
+    <headword id="agient">
+      <definition>agient</definition>
+      <meaning><b>agient</b>, agento.</meaning>
+    </headword>
+    <headword id="agitacja">
+      <definition>agitacja</definition>
+      <meaning><b>agitacja</b>, agitado.</meaning>
+    </headword>
+    <headword id="agitator">
+      <definition>agitator</definition>
+      <meaning><b>agitator</b>, agitanto.</meaning>
+    </headword>
+    <headword id="agitowac">
+      <definition>agitować</definition>
+      <meaning><b>agitować</b>, agiti.</meaning>
+    </headword>
+    <headword id="aglutynacja">
+      <definition>aglutynacja</definition>
+      <meaning><b>aglutynacja</b>, aglutino.</meaning>
+    </headword>
+    <headword id="agonja">
+      <definition>agonja</definition>
+      <meaning><b>agonja</b>, agonio.</meaning>
+    </headword>
+    <headword id="agrafka">
+      <definition>agrafka</definition>
+      <meaning><b>agrafka</b>, agrafo.</meaning>
+    </headword>
+    <headword id="agrarny">
+      <definition>agrarny</definition>
+      <meaning><b>agrarny</b>, agrara.</meaning>
+    </headword>
+    <headword id="agrarjusz">
+      <definition>agrarjusz</definition>
+      <meaning><b>agrarjusz</b>, agrarulo.</meaning>
+    </headword>
+    <headword id="agrest">
+      <definition>agrest</definition>
+      <meaning><b>agrest</b>, groso.</meaning>
+    </headword>
+    <headword id="agronom">
+      <definition>agronom</definition>
+      <meaning><b>agronom</b>, agronomiisto.</meaning>
+    </headword>
+    <headword id="agronomiczny">
+      <definition>agronomiczny</definition>
+      <meaning><b>agronomiczny</b>, agronomia.</meaning>
+    </headword>
+    <headword id="agronomja">
+      <definition>agronomja</definition>
+      <meaning><b>agronomja</b>, agronomio.</meaning>
+    </headword>
+    <headword id="ah">
+      <definition>ah</definition>
+      <meaning><b>ah</b>, ho, ah!</meaning>
+    </headword>
+    <headword id="aha">
+      <definition>aha</definition>
+      <meaning><b>aha</b>, jen!</meaning>
+    </headword>
+    <headword id="ajent">
+      <definition>ajent</definition>
+      <meaning><b>ajent</b> = <link headword="agient">agient</link>.</meaning>
+    </headword>
+    <headword id="ajer">
+      <definition>ajer</definition>
+      <meaning><b>ajer</b>, kalamo <i>(bot.)</i>.</meaning>
+    </headword>
+    <headword id="akacja">
+      <definition>akacja</definition>
+      <meaning><b>akacja</b>, akacio.</meaning>
+    </headword>
+    <headword id="akacjowy">
+      <definition>akacjowy</definition>
+      <meaning><b>akacjowy</b>, akacia.</meaning>
+    </headword>
+    <headword id="akademicki">
+      <definition>:akademicki</definition>
+      <meaning><b>akademicki</b>, akademia.</meaning>
+    </headword>
+    <headword id="akademik">
+      <definition>akademik</definition>
+      <meaning><b>akademik</b>, akademiano <i>(członek akademji)</i>; studento <i>(student)</i>.</meaning>
+    </headword>
+    <headword id="akademja">
+      <definition>akademja</definition>
+      <meaning><b>akademja</b>, akademio.</meaning>
+    </headword>
+    <headword id="akant">
+      <definition>akant</definition>
+      <meaning><b>akant</b>, akanto.</meaning>
+    </headword>
+    <headword id="akcent">
+      <definition>akcent</definition>
+      <meaning><b>akcent</b>, akcento <i>(nacisk)</i>; elparolado <i>(wymowa)</i>.</meaning>
+    </headword>
+    <headword id="akcentowac">
+      <definition>akcentować</definition>
+      <meaning><b>akcentować</b>, akcenti.</meaning>
+    </headword>
+    <headword id="akceptacja">
+      <definition>akceptacja</definition>
+      <meaning><b>akceptacja</b>, akcepto.</meaning>
+    </headword>
+    <headword id="akceptowac">
+      <definition>akceptować</definition>
+      <meaning><b>akceptować</b>, akcepti.</meaning>
+    </headword>
+    <headword id="akcesorja">
+      <definition>akcesorja</definition>
+      <meaning><b>akcesorja</b>, akcesoraĵoj.</meaning>
+    </headword>
+    <headword id="akcja">
+      <definition>akcja</definition>
+      <meaning><b>akacja</b>, akcio <i>(a. handlowa)</i>, agado <i>(działanie)</i>.</meaning>
+    </headword>
+    <headword id="akcjonarjusz">
+      <definition>akcjonariusz</definition>
+      <meaning><b>akcjonariusz</b>, akciulo.</meaning>
+    </headword>
+    <headword id="akcyjny">
+      <definition>akcyjny</definition>
+      <meaning><b>akcyjny</b>, akcia.</meaning>
+    </headword>
+    <headword id="akcyza">
+      <definition>akcyza</definition>
+      <meaning><b>akcyza</b>, akcizo.</meaning>
+    </headword>
+    <headword id="aklamacja">
+      <definition>aklamacja</definition>
+      <meaning><b>aklamacja</b>, aklamo.</meaning>
+    </headword>
+    <headword id="aklimatyzowac">
+      <definition>aklimatyzować</definition>
+      <meaning><b>aklimatyzować</b>, aklimatizi.</meaning>
+    </headword>
+    <headword id="akomodowac">
+      <definition>akomodować</definition>
+      <meaning><b>akomodować</b>, akomodi.</meaning>
+    </headword>
+    <headword id="akompanjament">
+      <definition>akompanjament</definition>
+      <meaning><b>akompanjament</b>, akompano.</meaning>
+    </headword>
+    <headword id="akompanjator">
+      <definition>akompanjator</definition>
+      <meaning><b>akompanjator</b>, akompananto.</meaning>
+    </headword>
+    <headword id="akompanjowac">
+      <definition>akompanjować</definition>
+      <meaning><b>akompanjować</b>, akompani.</meaning>
+    </headword>
+    <headword id="akord">
+      <definition>akord</definition>
+      <meaning><b>akord</b>, akordo.</meaning>
+    </headword>
+    <headword id="akr">
+      <definition>akr</definition>
+      <meaning><b>akr</b>, akro.</meaning>
+    </headword>
+    <headword id="akredytowac">
+      <definition>akredytować</definition>
+      <meaning><b>akredytować</b>, akrediti.</meaning>
+    </headword>
+    <headword id="akrobata">
+      <definition>akrobata</definition>
+      <meaning><b>akrobata</b>, akrobato.</meaning>
+    </headword>
+    <headword id="aksamit">
+      <definition>aksamit</definition>
+      <meaning><b>aksamit</b>, veluro.</meaning>
+    </headword>
+    <headword id="aksamitka">
+      <definition>aksamitka</definition>
+      <meaning><b>aksamitka</b>, velurrubando.</meaning>
+    </headword>
+    <headword id="aksamitny">
+      <definition>aksamitny</definition>
+      <meaning><b>aksamitny</b>, velura.</meaning>
+    </headword>
+    <headword id="akselbant">
+      <definition>akselbant</definition>
+      <meaning><b>akselbant</b>, epoleto.</meaning>
+    </headword>
+    <headword id="aksjomat">
+      <definition>aksjomat</definition>
+      <meaning><b>aksjomat</b>, aksiomo.</meaning>
+    </headword>
+    <headword id="akt">
+      <definition>akt</definition>
+      <meaning><b>akt</b>, akto, <i>(akt, odsłona)</i>; ago <i>(działanie)</i>; faro <i>(czyn)</i>.</meaning>
+    </headword>
+    <headword id="akta">
+      <definition>akta</definition>
+      <meaning><b>akta</b>, aktoj.</meaning>
+    </headword>
+    <headword id="aktor">
+      <definition>aktor</definition>
+      <meaning><b>aktor</b>, aktoro.</meaning>
+    </headword>
+    <headword id="aktorka">
+      <definition>aktorka</definition>
+      <meaning><b>aktorka</b>, aktorino.</meaning>
+    </headword>
+    <headword id="aktorski">
+      <definition>aktorski</definition>
+      <meaning><b>aktorski</b>, aktora.</meaning>
+    </headword>
+    <headword id="aktowy">
+      <definition>aktowy</definition>
+      <meaning><b>aktowy</b>, akta.</meaning>
+    </headword>
+    <headword id="aktualny">
+      <definition>aktualny</definition>
+      <meaning><b>aktualny</b>, aktuala, nuntempa.</meaning>
+    </headword>
+    <headword id="aktuarjusz">
+      <definition>aktuarjusz</definition>
+      <meaning><b>aktuarjusz</b>, aktisto.</meaning>
+    </headword>
+    <headword id="akumulator">
+      <definition>akumulator</definition>
+      <meaning><b>akumulator</b>, akumulatoro.</meaning>
+    </headword>
+    <headword id="akuratnosc">
+      <definition>akuratność</definition>
+      <meaning><b>akuratność</b>, akurateco.</meaning>
+    </headword>
+    <headword id="akuratny">
+      <definition>akuratny</definition>
+      <meaning><b>akuratny</b>, akurata.</meaning>
+    </headword>
+    <headword id="akustyczny">
+      <definition>akustyczny</definition>
+      <meaning><b>akustyczny</b>, akustika.</meaning>
+    </headword>
+    <headword id="akustyka">
+      <definition>akustyka</definition>
+      <meaning><b>akustyka</b>, akustiko.</meaning>
+    </headword>
+    <headword id="akuszer">
+      <definition>akuszer</definition>
+      <meaning><b>akuszer</b>, akuŝistio.</meaning>
+    </headword>
+    <headword id="akuszerka">
+      <definition>akuszerka</definition>
+      <meaning><b>akuszerka</b>, akuŝistino.</meaning>
+    </headword>
+    <headword id="akuszerski">
+      <definition>akuszerski</definition>
+      <meaning><b>akuszerski</b>, akuŝista.</meaning>
+    </headword>
+    <headword id="akuszerstwo">
+      <definition>akuszerstwo</definition>
+      <meaning><b>akuszerstwo</b>, akuŝistado.</meaning>
+    </headword>
+    <headword id="akwarela">
+      <definition>akwarela</definition>
+      <meaning><b>akwarela</b>, akvarelo.</meaning>
+    </headword>
+    <headword id="akwarjum">
+      <definition>akwarjum</definition>
+      <meaning><b>akwarjum</b>, akvario.</meaning>
+    </headword>
+    <headword id="alabaster">
+      <definition>alabaster</definition>
+      <meaning><b>alabaster</b>, alabastro.</meaning>
+    </headword>
+    <headword id="alabastrowy">
+      <definition>alabastrowy</definition>
+      <meaning><b>alabastrowy</b>, alabastra.</meaning>
+    </headword>
+    <headword id="alarm">
+      <definition>alarm</definition>
+      <meaning><b>alarm</b>, alarmo.</meaning>
+    </headword>
+    <headword id="alarmowac">
+      <definition>alarmować</definition>
+      <meaning><b>alarmować</b>, alarmi.</meaning>
+    </headword>
+    <headword id="albatros">
+      <definition>albatros</definition>
+      <meaning><b>albatros</b>, albatroso.</meaning>
+    </headword>
+    <headword id="albinos">
+      <definition>albinos</definition>
+      <meaning><b>albinos</b>, albinoso.</meaning>
+    </headword>
+    <headword id="albo">
+      <definition>albo</definition>
+      <meaning><b>albo</b>, aü <i>(lub)</i>; ĉu <i>(czy)</i>.</meaning>
+    </headword>
+    <headword id="albowiem">
+      <definition>albowiem</definition>
+      <meaning><b>albowiem</b>, ĉar, pro tio ke.</meaning>
+    </headword>
+    <headword id="album">
+      <definition>album</definition>
+      <meaning><b>album</b>, albumo.</meaning>
+    </headword>
+    <headword id="albumin">
+      <definition>albumin</definition>
+      <meaning><b>albumin</b>, albumeno.</meaning>
+    </headword>
+    <headword id="alchemik">
+      <definition>alchemik</definition>
+      <meaning><b>alchemik</b>, alĥemiisto.</meaning>
+    </headword>
+    <headword id="alchemja">
+      <definition>alchemja</definition>
+      <meaning><b>alchemja</b>, alĥemio.</meaning>
+    </headword>
+    <headword id="alcista">
+      <definition>alcista</definition>
+      <meaning><b>alcista</b>, aldisto.</meaning>
+    </headword>
+    <headword id="ale01">
+      <definition>ale</definition>
+      <meaning><b>ale</b>, sed.</meaning>
+    </headword>
+    <headword id="ale02">
+      <definition>ale, ale</definition>
+      <meaning><b>ale, ale</b>, sed jen! atendu <i>(poczekaj)</i>.</meaning>
+    </headword>
+    <headword id="alegorja">
+      <definition>alegorja</definition>
+      <meaning><b>alegorja</b>, alegorio.</meaning>
+    </headword>
+    <headword id="alegoryczny">
+      <definition>alegoryczny</definition>
+      <meaning><b>alegoryczny</b>, alegoria.</meaning>
+    </headword>
+    <headword id="aleja">
+      <definition>aleja</definition>
+      <meaning><b>aleja</b>, aleo.</meaning>
+    </headword>
+    <headword id="alembik">
+      <definition>alembik</definition>
+      <meaning><b>alembik</b>, distililo.</meaning>
+    </headword>
+    <headword id="alembikowka">
+      <definition>alembikówka</definition>
+      <meaning><b>alembikówka</b>, brando distilita.</meaning>
+    </headword>
+    <headword id="aleopatja">
+      <definition>aleopatja</definition>
+      <meaning><b>aleopatja</b>, aleopatio.</meaning>
+    </headword>
+    <headword id="alez">
+      <definition>ależ</definition>
+      <meaning><b>ależ</b>, sed <i>(ale)</i>; tamen <i>(jednak)</i>; ja <i>(przecie)</i>.</meaning>
+    </headword>
+    <headword id="alfabet">
+      <definition>alfabet</definition>
+      <meaning><b>alfabet</b>, alfabeto.</meaning>
+    </headword>
+    <headword id="alfabetyczny">
+      <definition>alfabetyczny</definition>
+      <meaning><b>alfabetyczny</b>, alfabeta.</meaning>
+    </headword>
+    <headword id="algiebra">
+      <definition>algiebra</definition>
+      <meaning><b>algiebra</b>, algebro.</meaning>
+    </headword>
+    <headword id="algiebraiczny">
+      <definition>algiebraiczny</definition>
+      <meaning><b>algiebraiczny</b>, algebra.</meaning>
+    </headword>
+    <headword id="alic">
+      <definition>alić, aliści</definition>
+      <meaning><b>alić, aliści</b>, jen <i>(oto)</i>; rigardu <i>(patrz)</i>.</meaning>
+    </headword>
+    <headword id="aligator">
+      <definition>aligator</definition>
+      <meaning><b>aligaror</b>, aligatoro.</meaning>
+    </headword>
+    <headword id="alimenta">
+      <definition>alimenta</definition>
+      <meaning><b>alimenta</b>, alimentoj.</meaning>
+    </headword>
+    <headword id="alkali">
+      <definition>alkali</definition>
+      <meaning><b>alkali</b>, alkalio.</meaning>
+    </headword>
+    <headword id="alkaliczny">
+      <definition>alkaliczny</definition>
+      <meaning><b>alkaliczny</b>, alkalia.</meaning>
+    </headword>
+    <headword id="alkierz">
+      <definition>alkierz</definition>
+      <meaning><b>alkierz</b>, alkovo.</meaning>
+    </headword>
+    <headword id="alkohol">
+      <definition>alkohol</definition>
+      <meaning><b>alkohol</b>, alkoholo.</meaning>
+    </headword>
+    <headword id="alkoholiczny">
+      <definition>alkoholiczny</definition>
+      <meaning><b>alkoholiczny</b>, alkohola.</meaning>
+    </headword>
+    <headword id="alkoholik">
+      <definition>alkoholik</definition>
+      <meaning><b>alkoholik</b>, alkoholulo.</meaning>
+    </headword>
+    <headword id="alkowa">
+      <definition>alkowa</definition>
+      <meaning><b>alkowa</b> = <link headword="alkierz">alkierz</link>.</meaning>
+    </headword>
+    <headword id="almanach">
+      <definition>almanach</definition>
+      <meaning><b>almanach</b>, almanako.</meaning>
+    </headword>
+    <headword id="aloes">
+      <definition>aloes</definition>
+      <meaning><b>aloes</b>, aloo.</meaning>
+    </headword>
+    <headword id="alpejczyk">
+      <definition>alpejczyk</definition>
+      <meaning><b>alpejczyk</b>, alpano.</meaning>
+    </headword>
+    <headword id="alpejski">
+      <definition>alpejski</definition>
+      <meaning><b>alpejski</b>, alpa.</meaning>
+    </headword>
+    <headword id="alpy">
+      <definition>Alpy</definition>
+      <meaning><b>Alpy</b>, Alpoj.</meaning>
+    </headword>
+    <headword id="alt">
+      <definition>alt</definition>
+      <meaning><b>alt</b>, aldo.</meaning>
+    </headword>
+    <headword id="altana">
+      <definition>altana</definition>
+      <meaning><b>altana</b>, laübo.</meaning>
+    </headword>
+    <headword id="alternatywa">
+      <definition>alternatywa</definition>
+      <meaning><b>alternatywa</b>, alternativo.</meaning>
+    </headword>
+    <headword id="altowka">
+      <definition>altówka</definition>
+      <meaning><b>altówka</b>, aldviolono.</meaning>
+    </headword>
+    <headword id="altowy">
+      <definition>altowy</definition>
+      <meaning><b>altowy</b>, alda.</meaning>
+    </headword>
+    <headword id="alumn">
+      <definition>alumn</definition>
+      <meaning><b>alumn</b>, seminariano.</meaning>
+    </headword>
+    <headword id="aluzja">
+      <definition>aluzja</definition>
+      <meaning><b>aluzja</b>, aludo.</meaning>
+    </headword>
+    <headword id="alun">
+      <definition>ałun</definition>
+      <meaning><b>ałun</b>, aluno.</meaning>
+    </headword>
+    <headword id="alunisty">
+      <definition>ałunisty</definition>
+      <meaning><b>ałunisty</b>, aluneca, alunhava.</meaning>
+    </headword>
+    <headword id="alunowy">
+      <definition>ałunowy</definition>
+      <meaning><b>ałunowy</b>, aluna.</meaning>
+    </headword>
+    <headword id="amalgamat">
+      <definition>amalgamat</definition>
+      <meaning><b>amalgamat</b>, amalgaamo.</meaning>
+    </headword>
+    <headword id="amalgamowac">
+      <definition>amalgamować</definition>
+      <meaning><b>amalgamować</b>, amalgami.</meaning>
+    </headword>
+    <headword id="amant">
+      <definition>amant</definition>
+      <meaning><b>amant</b>, amanto.</meaning>
+    </headword>
+    <headword id="amarant">
+      <definition>amarant</definition>
+      <meaning><b>amarant</b>, amaranto.</meaning>
+    </headword>
+    <headword id="amarantowy">
+      <definition>amarantowy</definition>
+      <meaning><b>amarantowy</b>, amaranta.</meaning>
+    </headword>
+    <headword id="amator">
+      <definition>amator</definition>
+      <meaning><b>amator</b>, amatoro.</meaning>
+    </headword>
+    <headword id="amatorka">
+      <definition>amatorka</definition>
+      <meaning><b>amatorka</b>, amatorino.</meaning>
+    </headword>
+    <headword id="amatorski">
+      <definition>amatorski</definition>
+      <meaning><b>amatorski</b>, amatora, diletanta.</meaning>
+    </headword>
+    <headword id="amatorstwo">
+      <definition>amatorstwo</definition>
+      <meaning><b>amatorstwo</b>, diletantismo.</meaning>
+    </headword>
+    <headword id="ambaras">
+      <definition>ambaras</definition>
+      <meaning><b>ambaras</b>, embaraso.</meaning>
+    </headword>
+  </headwords>
+</dictionary>
