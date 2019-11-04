@@ -206,5 +206,47 @@ amatorka::amatorka::<b>amatorka</b>, amatorino.
 amatorski::amatorski::<b>amatorski</b>, amatora, diletanta.
 amatorstwo::amatorstwo::<b>amatorstwo</b>, diletantismo.
 ambaras::ambaras::<b>ambaras</b>, embaraso.
+ambarasowac::ambarasować::<b>ambarasować</b>, embarasi.
+ambarasowny::ambarasowny::<b>ambarasowny</b>, embarasa.
+ambasada::ambasada::<b>ambasada</b>, ambasadorejo.
+ambasador::ambasador::<b>ambasador</b>, ambasadoro.
+ambasadorski::ambasadorski<b>ambasadorski</b>, ambasadora.
+ambicja::ambicja::<b>ambicja</b>, ambicio.
+ambitny::ambitny::<b>ambitny</b>, ambicia.
+ambona::ambona::<b>ambona</b>, ambono, predika tribuno, predikejo.
+ambra::ambra::<b>ambra</b>, ambro.
+ambrozja::ambrozja::<b>ambrozja</b>, ambrozio.
+ambulans::ambulans::<b>ambulans</b>, ambulanco.
+ameba::ameba::<b>ameba</b>, amebo.
+amen::amen::<b>amen</b>, amen.
+ameryka::Ameryka::<b>Ameryka</b>, Ameriko.
+amerykanin::amerykanin::<b>amerykanin</b>, amerikano.
+amerykanski::amerykański::<b>amerykański</b>, amerika.
+ametyst::ametyst::<b>ametyst</b>, ametisto.
+amfiteatr::amfiteatr::<b>amfiteatr</b>, amfiteatro.
+amfiteatralny::amfiteatralny::<b>amfiteatralny</b>, amfiteatra.
+amnestja::amnestja::<b>amnestja</b>, amnestio.
+amonjak::amonjak::<b>amonjak</b>, amoniako.
+amonjakalny::amonjakalny::<b>amonjakalny</b>, amoniaka.
+amortyzacja::amortyzacja::<b>amortyzacja</b>, amortizo.
+amortyzacyjny::amortyzacyjny::<b>amortyzacyjny</b>, amortiza.
+amortyzowac::amortyzować::<b>amortyzować</b>, amortizi.
+ampulka::ampułka::<b>ampułka</b>, ampio.
+amputacja::amputacja::<b>amputacja</b>, amputado.
+amputowac::amputować::<b>amputować</b>, amputi.
+amulet::amulet::<b>amulet</b>, amuleto.
+amunicja::amunicja::<b>amunicja</b>, municio.
+amunicyjny::amunicyjny::<b>amunicyjny</b>, municia.
+anabaptysta::anabaptysta::<b>anabaptysta</b>, anabaptisto.
+anachroniczny::anachroniczny::<b>anachroniczny</b>, anakronisma.
+anachronizm::anachronizm::<b>anachronizm</b>, anakronismo.
+analfabeta::analfabeta::<b>analfabeta</b>, analfabeto.
+analityczny::analityczny::<b>analityczny</b>, analiza.
+analityk::analityk::<b>analityk</b>, analizisto.
+analiza::analiza::<b>analiza</b>, analizo.
+analizowac::analizować::<b>analizować</b>, analizi.
+analogiczny::analogiczny::<b>analogiczny</b>, analogia.
+analogja::analogja::<b>analogja</b>, analogio.
+ananas::ananas::<b>ananas</b>, ananaso.
 #END
 ŝ Ŝ Ĵ ĵ Ĝ ĝ ü ĉ Ĉ Ĥ ĥ
