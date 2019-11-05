@@ -210,7 +210,7 @@ ambarasowac::ambarasować::<b>ambarasować</b>, embarasi.
 ambarasowny::ambarasowny::<b>ambarasowny</b>, embarasa.
 ambasada::ambasada::<b>ambasada</b>, ambasadorejo.
 ambasador::ambasador::<b>ambasador</b>, ambasadoro.
-ambasadorski::ambasadorski<b>ambasadorski</b>, ambasadora.
+ambasadorski::ambasadorski::<b>ambasadorski</b>, ambasadora.
 ambicja::ambicja::<b>ambicja</b>, ambicio.
 ambitny::ambitny::<b>ambitny</b>, ambicia.
 ambona::ambona::<b>ambona</b>, ambono, predika tribuno, predikejo.
