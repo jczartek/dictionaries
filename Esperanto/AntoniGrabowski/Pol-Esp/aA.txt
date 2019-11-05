@@ -248,5 +248,44 @@ analizowac::analizować::<b>analizować</b>, analizi.
 analogiczny::analogiczny::<b>analogiczny</b>, analogia.
 analogja::analogja::<b>analogja</b>, analogio.
 ananas::ananas::<b>ananas</b>, ananaso.
+ananasowy::ananasowy::<b>ananasowy</b>, ananasa.
+anapest::anapest::<b>anapest</b>, anapesto.
+anarchja::anarchja::<b>anarchja</b>, anarĥio.
+anarchiczny::anarchiczny::<b>anarchiczny</b>, anarĥia.
+anarchisty::anarchisty::<b>anarchisty</b>, anarĥiisto.
+anarchistyczny::anarchistyczny::<b>anarchistyczny</b>, anarĥiista.
+anatom::anatom::<b>anatom</b>, anatomiisto.
+anatomiczny::anatomiczny::<b>anatomiczny</b>, anatomia.
+anatomja::anatomja::<b>anatomja</b>, anatomio.
+androny::androny::<b>androny</b>, sensencaĵo, <i>(głupstwo)</i>; babilaĵo <i>(gadanina)</i>.
+anegdota::anegdota::<b>anegdota</b>, anekdoto.
+anektowac::anektować::<b>anektować</b>, aneksi.
+anemiczny::anemiczny::<b>anemiczny</b>, anemia.
+anemja::anemja::<b>anemja</b>, anemio.
+angielski::angielski::<b>angielski</b>, angla.
+angielszczyzna::angielszczyzna::<b>angielszczyzna</b>, anglaĵo.
+anglik::anglik::<b>anglik</b>, anglo.
+anglikanin::anglikanin::<b>anglikanin</b>, anglikano.
+anglikanski::anglikański::<b>anglikański</b>, anglikana.
+anglizowac::anglizować::<b>anglizować</b>, angligi.
+anglja:::Anglja::<b>Anglja</b>, Anglujo.
+angloman::angloman::<b>angloman</b>, anglomaniulo.
+anglomanja::anglomanja::<b>anglomanja</b>, anglomanio.
+ani::ani::<b>ani</b>, nek <i>(ani)</i>; eĉ ne <i>(nawet nie)</i>.
+ani-ani::ani-ani::<b>ani-ani</b>, nek-nek.
+anielski::anielski::<b>anielski</b>, anĝela.
+anielskosc::anielskość::<b>anielskość</b>, anĝeleco.
+anilina::anilina::<b>anilina</b>, anilino.
+animusz::animusz::<b>animusz</b>, kuraĝeco, kuraĝanimeco.
+aniol::anioł::<b>anioł</b>, anĝelo.
+aniolek::aniołek::<b>aniołek</b>, anĝeleto.
+anizeli::aniżeli::<b>aniżeli</b>, ol <i>(niż)</i>; antaü ol <i>(zanim)</i>.
+ankra::ankra::<b>ankra</b>, krampo.
+annale::annale::<b>annale</b>, jarlibroj.
+ano::ano::<b>ano</b>, nu!
+anoda::anoda::<b>anoda</b>, anodo.
+anomalja::anomalja::<b>anomalja</b>, anomalio.
+anomalny::anomalny::<b>anomalny</b>, anomalia.
+anonim::anonim::<b>anonim</b>, anonimo.
 #END
 ŝ Ŝ Ĵ ĵ Ĝ ĝ ü ĉ Ĉ Ĥ ĥ
