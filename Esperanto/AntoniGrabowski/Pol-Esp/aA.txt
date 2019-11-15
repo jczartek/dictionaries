@@ -287,5 +287,43 @@ anoda::anoda::<b>anoda</b>, anodo.
 anomalja::anomalja::<b>anomalja</b>, anomalio.
 anomalny::anomalny::<b>anomalny</b>, anomalia.
 anonim::anonim::<b>anonim</b>, anonimo.
+anonimowy::anonimowy::<b>anonimowy</b>, anonima.
+anons::anons::<b>anons</b>, anonco.
+anonsowac::anonsować::<b>anonsować</b>, anonci.
+anorganiczny::anorganiczny::<b>anorganiczny</b>, anorgana.
+anormalny::anormalny::<b>anormalny</b>, anormala.
+ansa::ansa::<b>ansa</b>, kontraüemo <i>(niechęć)</i>, ofendo <i>(uraza)</i>.
+antaba::antaba::<b>antaba</b>, prenilo, maneto.
+antagonista::antagonista::<b>antagonista</b>, antagonisto.
+antagonizm::antagonizm::<b>antagonizm</b>, antagonismo.
+antalek::antałek::<b>antałek</b>, bareleto.
+antenat::antenat::<b>antenat</b>, prapatro.
+antologja::antologja::<b>antologja</b>, antologio.
+antracyt::antracyt::<b>antracyt</b>, antracito.
+antrakt::antrakt::<b>antrakt</b>, interakto.
+antropologiczny::antropologiczny::<b>antropologiczny</b>, antropologia.
+antropologja::antropologja::<b>antropologja</b>, antropologio.
+antropomorfizm::antropomorfizm::<b>antropomorfizm</b>, antropomorfismo.
+antychryst::antychryst::<b>antychryst</b>, antikristo.
+antydot::antydot::<b>antydot</b>, antidoto, kontraüven no.
+antyczny::antyczny::<b>antyczny</b>, antikva.
+antyk::antyk::<b>antyk</b>, antikvaĵo.
+antykwarjusz::antykwarjusz::<b>antykwarjusz</b>, antikvaĵisto.
+antykwarnia::antykwarnia::<b>antykwarnia</b>, antikvaĵejo.
+antykwarski::antykwarski::<b>antykwarski</b>, antikvaĵista.
+antylopa::antylopa::<b>antylopa</b>, antilopo.
+antymon::antymon::<b>antymon</b>, antimono.
+antypatja::antypatja::<b>antypatja</b>, antipatio.
+antypatyczny::antypatyczny::<b>antypatyczny</b>, antipatia.
+antypod::antypod::<b>antypod</b>, antipodo.
+antysemicki::antysemicki::<b>antysemicki</b>, antisemita.
+antysemita::antysemita::<b>antysemita</b>, antisemito.
+antysemityzm::antysemityzm::<b>antysemityzm</b>, antisemitismo.
+antyseptyczny::antyseptyczny::<b>antyseptyczny</b>, antisepsa.
+antyteza::antyteza::<b>antyteza</b>, antitezo.
+anu::anu::<b>anu</b>, nu!
+anuz::anuż::<b>anuż</b>, se tamen <i>(jeśli jednak)</i>; eble <i>(może być)</i>.
+anyz::anyż::<b>anyż</b>, anizo.
+anyzowy::anyżowy::<b>anyżowy</b>, aniza.
 #END
 ŝ Ŝ Ĵ ĵ Ĝ ĝ ü ĉ Ĉ Ĥ ĥ
