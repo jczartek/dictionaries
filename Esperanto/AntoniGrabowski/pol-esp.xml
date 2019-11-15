@@ -1157,5 +1157,157 @@
       <definition>anonim</definition>
       <meaning><b>anonim</b>, anonimo.</meaning>
     </headword>
+    <headword id="anonimowy">
+      <definition>anonimowy</definition>
+      <meaning><b>anonimowy</b>, anonima.</meaning>
+    </headword>
+    <headword id="anons">
+      <definition>anons</definition>
+      <meaning><b>anons</b>, anonco.</meaning>
+    </headword>
+    <headword id="anonsowac">
+      <definition>anonsować</definition>
+      <meaning><b>anonsować</b>, anonci.</meaning>
+    </headword>
+    <headword id="anorganiczny">
+      <definition>anorganiczny</definition>
+      <meaning><b>anorganiczny</b>, anorgana.</meaning>
+    </headword>
+    <headword id="anormalny">
+      <definition>anormalny</definition>
+      <meaning><b>anormalny</b>, anormala.</meaning>
+    </headword>
+    <headword id="ansa">
+      <definition>ansa</definition>
+      <meaning><b>ansa</b>, kontraüemo <i>(niechęć)</i>, ofendo <i>(uraza)</i>.</meaning>
+    </headword>
+    <headword id="antaba">
+      <definition>antaba</definition>
+      <meaning><b>antaba</b>, prenilo, maneto.</meaning>
+    </headword>
+    <headword id="antagonista">
+      <definition>antagonista</definition>
+      <meaning><b>antagonista</b>, antagonisto.</meaning>
+    </headword>
+    <headword id="antagonizm">
+      <definition>antagonizm</definition>
+      <meaning><b>antagonizm</b>, antagonismo.</meaning>
+    </headword>
+    <headword id="antalek">
+      <definition>antałek</definition>
+      <meaning><b>antałek</b>, bareleto.</meaning>
+    </headword>
+    <headword id="antenat">
+      <definition>antenat</definition>
+      <meaning><b>antenat</b>, prapatro.</meaning>
+    </headword>
+    <headword id="antologja">
+      <definition>antologja</definition>
+      <meaning><b>antologja</b>, antologio.</meaning>
+    </headword>
+    <headword id="antracyt">
+      <definition>antracyt</definition>
+      <meaning><b>antracyt</b>, antracito.</meaning>
+    </headword>
+    <headword id="antrakt">
+      <definition>antrakt</definition>
+      <meaning><b>antrakt</b>, interakto.</meaning>
+    </headword>
+    <headword id="antropologiczny">
+      <definition>antropologiczny</definition>
+      <meaning><b>antropologiczny</b>, antropologia.</meaning>
+    </headword>
+    <headword id="antropologja">
+      <definition>antropologja</definition>
+      <meaning><b>antropologja</b>, antropologio.</meaning>
+    </headword>
+    <headword id="antropomorfizm">
+      <definition>antropomorfizm</definition>
+      <meaning><b>antropomorfizm</b>, antropomorfismo.</meaning>
+    </headword>
+    <headword id="antychryst">
+      <definition>antychryst</definition>
+      <meaning><b>antychryst</b>, antikristo.</meaning>
+    </headword>
+    <headword id="antydot">
+      <definition>antydot</definition>
+      <meaning><b>antydot</b>, antidoto, kontraüven no.</meaning>
+    </headword>
+    <headword id="antyczny">
+      <definition>antyczny</definition>
+      <meaning><b>antyczny</b>, antikva.</meaning>
+    </headword>
+    <headword id="antyk">
+      <definition>antyk</definition>
+      <meaning><b>antyk</b>, antikvaĵo.</meaning>
+    </headword>
+    <headword id="antykwarjusz">
+      <definition>antykwarjusz</definition>
+      <meaning><b>antykwarjusz</b>, antikvaĵisto.</meaning>
+    </headword>
+    <headword id="antykwarnia">
+      <definition>antykwarnia</definition>
+      <meaning><b>antykwarnia</b>, antikvaĵejo.</meaning>
+    </headword>
+    <headword id="antykwarski">
+      <definition>antykwarski</definition>
+      <meaning><b>antykwarski</b>, antikvaĵista.</meaning>
+    </headword>
+    <headword id="antylopa">
+      <definition>antylopa</definition>
+      <meaning><b>antylopa</b>, antilopo.</meaning>
+    </headword>
+    <headword id="antymon">
+      <definition>antymon</definition>
+      <meaning><b>antymon</b>, antimono.</meaning>
+    </headword>
+    <headword id="antypatja">
+      <definition>antypatja</definition>
+      <meaning><b>antypatja</b>, antipatio.</meaning>
+    </headword>
+    <headword id="antypatyczny">
+      <definition>antypatyczny</definition>
+      <meaning><b>antypatyczny</b>, antipatia.</meaning>
+    </headword>
+    <headword id="antypod">
+      <definition>antypod</definition>
+      <meaning><b>antypod</b>, antipodo.</meaning>
+    </headword>
+    <headword id="antysemicki">
+      <definition>antysemicki</definition>
+      <meaning><b>antysemicki</b>, antisemita.</meaning>
+    </headword>
+    <headword id="antysemita">
+      <definition>antysemita</definition>
+      <meaning><b>antysemita</b>, antisemito.</meaning>
+    </headword>
+    <headword id="antysemityzm">
+      <definition>antysemityzm</definition>
+      <meaning><b>antysemityzm</b>, antisemitismo.</meaning>
+    </headword>
+    <headword id="antyseptyczny">
+      <definition>antyseptyczny</definition>
+      <meaning><b>antyseptyczny</b>, antisepsa.</meaning>
+    </headword>
+    <headword id="antyteza">
+      <definition>antyteza</definition>
+      <meaning><b>antyteza</b>, antitezo.</meaning>
+    </headword>
+    <headword id="anu">
+      <definition>anu</definition>
+      <meaning><b>anu</b>, nu!</meaning>
+    </headword>
+    <headword id="anuz">
+      <definition>anuż</definition>
+      <meaning><b>anuż</b>, se tamen <i>(jeśli jednak)</i>; eble <i>(może być)</i>.</meaning>
+    </headword>
+    <headword id="anyz">
+      <definition>anyż</definition>
+      <meaning><b>anyż</b>, anizo.</meaning>
+    </headword>
+    <headword id="anyzowy">
+      <definition>anyżowy</definition>
+      <meaning><b>anyżowy</b>, aniza.</meaning>
+    </headword>
   </headwords>
 </dictionary>
