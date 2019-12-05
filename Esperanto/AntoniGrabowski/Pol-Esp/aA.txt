@@ -325,5 +325,44 @@ anu::anu::<b>anu</b>, nu!
 anuz::anuż::<b>anuż</b>, se tamen <i>(jeśli jednak)</i>; eble <i>(może być)</i>.
 anyz::anyż::<b>anyż</b>, anizo.
 anyzowy::anyżowy::<b>anyżowy</b>, aniza.
+anyzowka::anyżówka::<b>anyżówka</b>, anizlikvoro.
+aorta::aorta::<b>aorta</b>, aorto.
+aparat::aparat::<b>aparat</b>, aparato.
+apartament::apartament::<b>apartament</b>, apartamento; ĉambro <i>(pokój)</i>.
+apatja::apatja::<b>apatja</b>, apatio.
+apatyczny::apatyczny::<b>apatyczny</b>, apatia.
+apel::apel::<b>apel</b>, alvoko.
+apelacja::apelacja::<b>apelacja</b>, apelacio.
+apelacyjny::apelacyjny::<b>apelacyjny</b>, apelacia.
+apelowac::apelować::<b>apelować</b>, apelacii.
+apetyczny::apetyczny::<b>apetyczny</b>, apetita.
+apetyt::apetyt::<b>apetyt</b>, apetito.
+aplauz::aplauz::<b>aplauz</b>, aplaüdo.
+aplikacja::aplikacja::<b>aplikacja</b>, apliko <i>(zastosowanie)</i>; diligenteco <i>(pilność)</i>; instruo <i>(nauka)</i>.
+aplikant::aplikant::<b>aplikant</b>, praktikanto.
+aplikowac::aplikować::<b>aplikować</b>, apliki.
+aplomb::aplomb::<b>aplomb</b>, aplombo.
+apokryf::apokryf::<b>apokryf</b>, apokrifo.
+apologja::apologja::<b>apologja</b>, apologio, defendo.
+apopleksja::apopleksja::<b>apopleksja</b>, apopleksio.
+apoplektyczny::apoplektyczny::<b>apoplektyczny</b>, apopleksia.
+aportowac::aportować::<b>apoprtować</b>, alporti.
+apostata::apostata::<b>apostata</b>, apostato.
+apostolski::apostolski::<b>apostolski</b>, apostola.
+apostolstwo::apostolstwo::<b>apostolstwo</b>, apostoleco.
+apostol::apostoł::<b>apostoł</b>, apostolo.
+apostrof::apostrof::<b>apostrof</b>, apostrofo.
+apostrofowac::apostrofować::<b>apostrofować</b>, apostrofi.
+apoteoza::apoteoza::<b>apoteoza</b>, apoteozo.
+apretura::apretura::<b>apretura</b>, apreturo.
+aprobacja::aprobacja::<b>aprobacja</b>, aprobo.
+aprobowac::aprobować::<b>aprobować</b>, aprobi.
+apteczny::apteczny::<b>apteczny</b>, apoteka.
+apteka::apteka::<b>apteka</b>, apoteko.
+aptekarka::aptekarka::<b>aptekarka</b>, apotekistino.
+aptekarski::aptekarski::<b>aptekarski</b>, apotekista.
+aptekarstwo::aptekarstwo::<b>aptekarstwo</b>, framacio.
+aptekarz::aptekarz::<b>aptekarz</b>, apotekisto.
+aptekarzowa::aptekarzowa::<b>aptekarzowa</b>, apotekistedzino.
 #END
 ŝ Ŝ Ĵ ĵ Ĝ ĝ ü ĉ Ĉ Ĥ ĥ
